@@ -125,20 +125,6 @@ docker push john2713/hola-mundo-php:latest
    - Asegúrate de que el servicio Docker esté corriendo
    - Verifica los permisos de Docker
 
-## Contribuir
-1. Haz fork del proyecto
-2. Crea una rama para tu característica (`git checkout -b feature/nueva-caracteristica`)
-3. Realiza tus cambios (`git commit -am 'Agrega nueva característica'`)
-4. Sube los cambios (`git push origin feature/nueva-caracteristica`)
-5. Abre un Pull Request
-
-## Registro de Cambios
-- **1.0.0** (Fecha)
-  - Versión inicial del proyecto
-  - Implementación básica de "Hola Mundo"
-  - Configuración de Docker
-  - Publicación en Docker Hub
-
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
